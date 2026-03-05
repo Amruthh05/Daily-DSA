@@ -13,6 +13,7 @@ Language used: Python
 | Day | Problem | Difficulty | Topic |
 |----|----|----|----|
 | Day 01 | Two Sum | Easy | Array, Hash Map |
+| Day 02 | Minimum Changes To Make Alternating Binary String | Easy | String |
 
 ---
 
