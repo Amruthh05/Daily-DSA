@@ -10,7 +10,7 @@ Language used: Python
 
 ## Total Problems Solved
 
-2 Problems
+3 Problems
 
 ---
 
@@ -20,6 +20,7 @@ Language used: Python
 |----|----|----|----|
 | Day 01 | Two Sum | Easy | Array, Hash Map |
 | Day 02 | Minimum Changes To Make Alternating Binary String | Easy | String |
+| Day 03 | Binary Number with Alternating Bits | Easy | Bit Manipulation |
 
 ---
 
@@ -28,7 +29,7 @@ Language used: Python
 - Arrays
 - Hash Map
 - Strings
-
+- Bit Manipulation
 ---
 
 ## Repository Structure
