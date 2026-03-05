@@ -2,9 +2,15 @@
 
 This repository contains my daily Data Structures and Algorithms practice.
 
-I am solving problems regularly to improve my problem solving skills and prepare for coding interviews.
+I solve problems regularly to improve my problem solving skills and prepare for coding interviews.
 
 Language used: Python
+
+---
+
+## Total Problems Solved
+
+2 Problems
 
 ---
 
@@ -17,6 +23,14 @@ Language used: Python
 
 ---
 
+## Topics Covered
+
+- Arrays
+- Hash Map
+- Strings
+
+---
+
 ## Repository Structure
 
 Each day has its own folder.
@@ -25,10 +39,14 @@ Example:
 
 Day-01  
 - problems.md → problem description  
-- solution.md → explanation and code  
+- solution.md → explanation and code
+
+Day-02  
+- problems.md  
+- solution.md  
 
 ---
 
-## Goal
+## My Goal
 
-Solve problems consistently and improve problem solving ability step by step.
+Solve DSA problems consistently and improve problem solving ability step by step.
