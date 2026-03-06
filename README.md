@@ -10,7 +10,7 @@ Language used: Python
 
 ## Total Problems Solved
 
-3 Problems
+4 Problems
 
 ---
 
@@ -21,6 +21,7 @@ Language used: Python
 | Day 01 | Two Sum | Easy | Array, Hash Map |
 | Day 02 | Minimum Changes To Make Alternating Binary String | Easy | String |
 | Day 03 | Binary Number with Alternating Bits | Easy | Bit Manipulation |
+| Day 04 | Check if Binary String Has at Most One Segment of Ones | Easy | String |
 
 ---
 
