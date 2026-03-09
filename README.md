@@ -16,14 +16,17 @@ Language used: Python
 
 ## Progress
 
-| Day | Problem | Difficulty | Topic |
-|----|----|----|----|
-| Day 01 | Two Sum | Easy | Array, Hash Map |
-| Day 02 | Minimum Changes To Make Alternating Binary String | Easy | String |
-| Day 03 | Binary Number with Alternating Bits | Easy | Bit Manipulation |
-| Day 04 | Check if Binary String Has at Most One Segment of Ones | Easy | String |
-| Day 05 | Add Binary | Easy | String, Bit Manipulation |
-| Day 06 | Minimum Capacity Box | Easy | Array |
+
+
+| Day | Problem | Difficulty | Topic | Link |
+|----|----|----|----|----|
+| Day 01 | Two Sum | Easy | Array, Hash Map | https://leetcode.com/problems/two-sum/ |
+| Day 02 | Minimum Changes To Make Alternating Binary String | Easy | String | https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/ |
+| Day 03 | Binary Number with Alternating Bits | Easy | Bit Manipulation | https://leetcode.com/problems/binary-number-with-alternating-bits/ |
+| Day 04 | Check if Binary String Has at Most One Segment of Ones | Easy | String | https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/ |
+| Day 05 | Add Binary | Easy | String | https://leetcode.com/problems/add-binary/ |
+| Day 06 | Minimum Capacity Box | Easy | Array | https://leetcode.com/problems/minimum-capacity-box/ |
+| Day 07 | Partition Array According to Given Pivot | Medium | Array | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
 
 ---
 
