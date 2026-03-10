@@ -10,13 +10,11 @@ Language used: Python
 
 ## Total Problems Solved
 
-7 Problems
+8 Problems
 
 ---
 
-## Progress
-
-
+## Progress Tracker
 
 | Day | Problem | Difficulty | Topic | Link |
 |----|----|----|----|----|
@@ -27,6 +25,7 @@ Language used: Python
 | Day 05 | Add Binary | Easy | String | https://leetcode.com/problems/add-binary/ |
 | Day 06 | Minimum Capacity Box | Easy | Array | https://leetcode.com/problems/minimum-capacity-box/ |
 | Day 07 | Partition Array According to Given Pivot | Medium | Array | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
+| Day 08 | Move Zeroes | Easy | Array | https://leetcode.com/problems/move-zeroes/ |
 
 ---
 
