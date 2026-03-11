@@ -1,4 +1,7 @@
 # Daily DSA Practice
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-10-orange)
 
 This repository contains my daily Data Structures and Algorithms practice.
 
