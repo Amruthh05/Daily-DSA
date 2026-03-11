@@ -35,12 +35,12 @@ Language used: Python
 
 ## Topics Covered
 
-Arrays
-Hash Map
-Hash Set
-Strings
-Bit Manipulation
-Math
+-Arrays
+-Hash Map
+-Hash Set
+-Strings
+-Bit Manipulation
+-Math
 ---
 
 ## Repository Structure
