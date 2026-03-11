@@ -16,6 +16,18 @@ Language used: Python
 10 Problems
 
 ---
+---
+
+# Topics Covered
+
+- Arrays
+- Hash Map
+- Hash Set
+- Strings
+- Bit Manipulation
+- Math
+
+---
 
 ## Progress Tracker
 
@@ -33,18 +45,7 @@ Language used: Python
 | Day 09 | Contains Duplicate | Easy | Array, Hash Set | https://leetcode.com/problems/contains-duplicate/ |
 ---
 
----
 
-# Topics Covered
-
-- Arrays
-- Hash Map
-- Hash Set
-- Strings
-- Bit Manipulation
-- Math
-
----
 
 ## Repository Structure
 
