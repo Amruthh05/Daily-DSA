@@ -16,7 +16,6 @@ Language used: Python
 10 Problems
 
 ---
----
 
 # Topics Covered
 
