@@ -13,7 +13,7 @@ Language used: Python
 
 ## Total Problems Solved
 
-8 Problems
+10 Problems
 
 ---
 
@@ -29,15 +29,18 @@ Language used: Python
 | Day 06 | Minimum Capacity Box | Easy | Array | https://leetcode.com/problems/minimum-capacity-box/ |
 | Day 07 | Partition Array According to Given Pivot | Medium | Array | https://leetcode.com/problems/partition-array-according-to-given-pivot/ |
 | Day 08 | Move Zeroes | Easy | Array | https://leetcode.com/problems/move-zeroes/ |
-
+| Day 09 | Plus One | Easy | Array, Math | https://leetcode.com/problems/plus-one/ |
+| Day 09 | Contains Duplicate | Easy | Array, Hash Set | https://leetcode.com/problems/contains-duplicate/ |
 ---
 
 ## Topics Covered
 
-- Arrays
-- Hash Map
-- Strings
-- Bit Manipulation
+Arrays
+Hash Map
+Hash Set
+Strings
+Bit Manipulation
+Math
 ---
 
 ## Repository Structure
