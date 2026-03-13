@@ -13,7 +13,7 @@ Language used: Python
 
 ## Total Problems Solved
 
-10 Problems
+11 Problems
 
 ---
 
@@ -42,6 +42,7 @@ Language used: Python
 | Day 08 | Move Zeroes | Easy | Array | https://leetcode.com/problems/move-zeroes/ |
 | Day 09 | Plus One | Easy | Array, Math | https://leetcode.com/problems/plus-one/ |
 | Day 09 | Contains Duplicate | Easy | Array, Hash Set | https://leetcode.com/problems/contains-duplicate/ |
+| Day 10 | The Two Sneaky Numbers of Digitville | Easy | Array, Hash Set | https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/ |
 ---
 
 
