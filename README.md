@@ -13,7 +13,7 @@ Language used: Python
 
 ## Total Problems Solved
 
-12 Problems
+13 Problems
 
 ---
 
