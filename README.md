@@ -13,7 +13,7 @@ Language used: Python
 
 ## Total Problems Solved
 
-11 Problems
+12 Problems
 
 ---
 
@@ -43,6 +43,7 @@ Language used: Python
 | Day 09 | Plus One | Easy | Array, Math | https://leetcode.com/problems/plus-one/ |
 | Day 09 | Contains Duplicate | Easy | Array, Hash Set | https://leetcode.com/problems/contains-duplicate/ |
 | Day 10 | The Two Sneaky Numbers of Digitville | Easy | Array, Hash Set | https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/ |
+| Day 11 | Find Closest Person | Easy | Math, Simulation | https://leetcode.com/problems/find-closest-person/ |
 ---
 
 
