@@ -44,6 +44,8 @@ Language used: Python
 | Day 09 | Contains Duplicate | Easy | Array, Hash Set | https://leetcode.com/problems/contains-duplicate/ |
 | Day 10 | The Two Sneaky Numbers of Digitville | Easy | Array, Hash Set | https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/ |
 | Day 11 | Find Closest Person | Easy | Math, Simulation | https://leetcode.com/problems/find-closest-person/ |
+| Day 12 | Majority Element | Easy | Array, Hashing | https://leetcode.com/problems/majority-element/ |
+
 ---
 
 
