@@ -13,7 +13,7 @@ Language used: Python
 
 ## Total Problems Solved
 
-13 Problems
+14 Problems
 
 ---
 
@@ -45,6 +45,7 @@ Language used: Python
 | Day 10 | The Two Sneaky Numbers of Digitville | Easy | Array, Hash Set | https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/ |
 | Day 11 | Find Closest Person | Easy | Math, Simulation | https://leetcode.com/problems/find-closest-person/ |
 | Day 12 | Majority Element | Easy | Array, Hashing | https://leetcode.com/problems/majority-element/ |
+| Day 13 | First Letter to Appear Twice | Easy | String, Hashing | https://leetcode.com/problems/first-letter-to-appear-twice/ |
 
 ---
 
